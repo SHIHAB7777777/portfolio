@@ -100,7 +100,7 @@
 
   <section>
     <h2>Contact</h2>
-    <p>Email: SHIHAB01518@GMAIL.COM</p>
+    <p>Email: shihab01518@GMAIL.COM</p>
     <p>Phone: 01856814303</p>
   </section>
 
@@ -110,5 +110,3 @@
 
 </body>
 </html>
-Sent
-Write to Prince Adnan
